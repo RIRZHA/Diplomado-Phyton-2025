@@ -13,3 +13,9 @@ This repository includes exercises, notes, and resources from the Python course 
 3. Psicology
 4. Economics
    
+## Actors
+1. Liam Neeson
+2. Pedro Pascal
+3. Denzel Washington
+4. Adam Sandler
+   
