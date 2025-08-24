@@ -18,3 +18,4 @@ This repository includes exercises, notes, and resources from the Python course 
 2. Openheimer
 3. Harry Potter
 4. Long legs
+   
