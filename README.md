@@ -6,3 +6,10 @@ This repository includes exercises, notes, and resources from the Python course 
 2. Anel Vasquez
 3. Luis Ramos
 4. Lesly Leon
+
+## Faculty
+1. Economics
+2. Sociology
+3. Psicology
+4. Economics
+   
