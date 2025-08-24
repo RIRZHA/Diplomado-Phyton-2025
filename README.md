@@ -12,10 +12,10 @@ This repository includes exercises, notes, and resources from the Python course 
 2. Sociology
 3. Psicology
 4. Economics
-   
-## Actors
-1. Liam Neeson
-2. Pedro Pascal
-3. Denzel Washington
-4. Adam Sandler
+
+## Movies
+1. Orgullo y perjuicio
+2. Openheimer
+3. Harry Potter
+4. Long legs
    
